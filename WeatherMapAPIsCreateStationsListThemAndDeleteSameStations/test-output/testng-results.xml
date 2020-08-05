@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17172" started-at="2020-08-05T13:48:58 IST" finished-at="2020-08-05T13:49:15 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17172" started-at="2020-08-05T13:48:58 IST" finished-at="2020-08-05T13:49:15 IST">
+      <class name="WeatherMapAPI.WeatherMapAPIRequests">
+        <test-method status="PASS" signature="getWeatherWithOutRegister()[pri:1, instance:WeatherMapAPI.WeatherMapAPIRequests@3cb1ffe6]" name="getWeatherWithOutRegister" duration-ms="11253" started-at="2020-08-05T13:48:58 IST" finished-at="2020-08-05T13:49:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherWithOutRegister -->
+        <test-method status="PASS" signature="postStation()[pri:1, instance:WeatherMapAPI.WeatherMapAPIRequests@3cb1ffe6]" name="postStation" duration-ms="2654" started-at="2020-08-05T13:49:10 IST" finished-at="2020-08-05T13:49:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postStation -->
+        <test-method status="PASS" signature="getStations()[pri:2, instance:WeatherMapAPI.WeatherMapAPIRequests@3cb1ffe6]" name="getStations" duration-ms="662" started-at="2020-08-05T13:49:12 IST" finished-at="2020-08-05T13:49:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStations -->
+        <test-method status="PASS" signature="deleteStations()[pri:3, instance:WeatherMapAPI.WeatherMapAPIRequests@3cb1ffe6]" name="deleteStations" duration-ms="1282" started-at="2020-08-05T13:49:13 IST" finished-at="2020-08-05T13:49:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteStations -->
+        <test-method status="PASS" signature="TryRedeleteStations()[pri:4, instance:WeatherMapAPI.WeatherMapAPIRequests@3cb1ffe6]" name="TryRedeleteStations" duration-ms="1279" started-at="2020-08-05T13:49:14 IST" finished-at="2020-08-05T13:49:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TryRedeleteStations -->
+      </class> <!-- WeatherMapAPI.WeatherMapAPIRequests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
